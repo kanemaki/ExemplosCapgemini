@@ -11,6 +11,11 @@ import springfox.documentation.service.Contact;
 import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
+/**
+ *  @author Alexandre Florentino 
+ *  @since 03/09/2019
+ *  @version 1.0
+ */
 
 @Configuration
 @EnableSwagger2
