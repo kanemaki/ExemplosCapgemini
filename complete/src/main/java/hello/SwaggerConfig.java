@@ -34,8 +34,8 @@ public class SwaggerConfig {
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
                 .contact(new Contact("Alexandre Florentino", "", ""))
-                .title("API GS-Rest-Service")
-                .description("Documentação API Greetings-Rest-Service")
+                .title("API Exemplos Capgemini")
+                .description("Documentação API ExemplosCapgemini-Rest-Service")
                 .license("Apache Licence Version 2.0")
                 .licenseUrl("https://apache.org")
                 .version("1.0")
